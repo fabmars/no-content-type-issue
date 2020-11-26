@@ -32,14 +32,3 @@ dependencies {
 application {
     mainClass.set("com.example.Application")
 }
-
-java {
-    sourceCompatibility = JavaVersion.toVersion("11")
-    targetCompatibility = JavaVersion.toVersion("11")
-}
-
-tasks {
-
-
-}
-
